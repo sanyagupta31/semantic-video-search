@@ -34,5 +34,5 @@ Unlike traditional metadata search (which relies on tags), this engine uses **Op
     streamlit run app.py
     ```
 
-## 📸 Screenrecording
-<video controls src="Screen Recording 2025-12-18 124546.mp4" title="Title"></video>
+## 📸 Screenshots
+![rainbow](<Screenshot 2025-12-18 121211.png>)
