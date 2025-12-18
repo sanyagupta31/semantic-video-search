@@ -1,0 +1,6 @@
+__pycache__/
+my_video_db/
+*.mp4
+*.jpg
+.env
+venv/
